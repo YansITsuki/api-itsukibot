@@ -1,6 +1,4 @@
-## ```Copy From```
-<p href="https://github.com/zeeoneofc/Rest-api-alphabot">zeeoneofc</p>
-</>
+
 ## ```Api Features```
 
 1. ```𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙 & 𝙎𝙤𝙘𝙞𝙖𝙡 𝙈𝙚𝙙𝙞𝙖 🤳 ```
@@ -416,3 +414,9 @@ case 'covid_word':
      break
 ```
 </Details>
+
+## ```Copy From```
+<p>
+<a href="https://github.com/zeeoneofc/Rest-api-alphabot">
+zeeoneofc
+</a></p>
